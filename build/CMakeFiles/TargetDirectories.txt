@@ -1,0 +1,9 @@
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/CMakeFiles/rebuild_cache.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/CMakeFiles/Pacmen_among_us.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/CMakeFiles/edit_cache.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/CMakeFiles/glad.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/gokulvamsit/sem4/cg/ass1/2019111009/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
